@@ -2,7 +2,7 @@
 
 Desktop Support Analyst II working toward a career in penetration testing. Security+, A+, and preparing for the OSCP.
 
-I spend my free time building Active Directory labs, working through Proving Grounds machines, and writing my own tools from scratch to understand how they work.
+I spend my free time building Active Directory labs, working through all kinds of CTF boxes, and writing my own tools from scratch to understand how they work.
 
 ## Projects
 - [RedTeam100](https://github.com/whitepepper01/RedTeam100) — working through a 100-project programming list, writing each one myself
