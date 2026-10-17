@@ -7,6 +7,7 @@ I spend my free time building Active Directory labs, working through all kinds o
 ## Projects
 - [RedTeam100](https://github.com/whitepepper01/RedTeam100) — working through a 100-project programming list, writing each one myself
 - Active Directory home lab — Windows Server with users, groups, GPOs, and pfSense running IDS/IPS
+- Reverse Engineering learning (older games, ROMS, etc.)
 
 ## Background
 Enterprise IT support: Active Directory, networking, Azure, helpdesk operations, and scripting. Thousands of resolved tickets in a healthcare environment.
