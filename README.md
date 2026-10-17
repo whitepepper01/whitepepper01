@@ -13,7 +13,7 @@ Enterprise IT support: Active Directory, networking, Azure, helpdesk operations,
 
 ## Certifications
 - CompTIA Security+, CompTIA A+
-- Certificate in Penetration Testing (in progress) — Ventura County CCD
+- In Progress - OSCP
 
 ## Links
 - Blog: [guygettinby.blogspot.com](https://guygettinby.blogspot.com)
