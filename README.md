@@ -16,4 +16,4 @@ Enterprise IT support: Active Directory, networking, Azure, helpdesk operations,
 - In Progress - OSCP
 
 ## Links
-- Blog: [guygettinby.blogspot.com](https://guygettinby.blogspot.com)
+- Blog: whitepepper.github.io/blog
