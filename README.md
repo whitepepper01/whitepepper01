@@ -15,6 +15,7 @@ Enterprise IT support: Active Directory, networking, Azure, helpdesk operations,
 ## Certifications
 - CompTIA Security+, CompTIA A+
 - In Progress - OSCP
+- In Progress - CRTO
 
 ## Links
 - Blog: whitepepper01.github.io/blog/
